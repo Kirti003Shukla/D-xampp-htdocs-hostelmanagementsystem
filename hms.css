@@ -1,0 +1,20 @@
+
+.navbar-custom{background-color:#0099CC;}li{font-weight: bold;text-align: center;}/*.navbar-header{width:140px;}*/
+li a{color:white;width:100%;}.line{  width:100%;border-bottom: 3px solid #0099CC;}
+li a:hover { background-color:white;color:black;}
+ 
+
+/* Dropdown Content (Hidden by Default) */
+
+
+     /* Links inside the dropdown */
+     /* Change color of dropdown links on hover */
+
+
+/*footer*/
+footer{background-color:#0099CC;color:black;width:102%;bottom:0;padding:12px 0px 12px 5px;position:fixed;}
+
+ .adlog{margin-top:50px;position:fixed;width:185px;}
+ a.ad{display:block;background-color: grey;color:white;text-decoration:none;padding:9px 9px 9px 19px;font-size:23px;}
+ a.ad:hover{background-color: black;color:white;}
+ 
